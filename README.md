@@ -8,5 +8,6 @@ Back-end : PHP
 Database : MySQL
 
 
-📬 Let's Connect !!
-LinkedIn https://www.linkedin.com/in/bhut-meet-6b63241a0/
+# 📬 Let's Connect !!
+LinkedIn 
+[<img alt="LinkedIn" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"](https://images.unsplash.com/photo-15921815729751d0d8880d175crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2079)/>](https://www.linkedin.com/in/bhut-meet-6b63241a0/)
