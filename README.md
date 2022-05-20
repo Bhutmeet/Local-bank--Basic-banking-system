@@ -2,7 +2,7 @@
  my internship task to make basic banking system which only transfer money between predefined customers
 
 # languages, frameworks and databases uses
- -Front-end : HTML, CSS, tailwind css
+ -Front-end : HTML, CSS,Javascript, tailwind css
  
  -Back-end : PHP
  
