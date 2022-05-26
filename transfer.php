@@ -15,7 +15,7 @@
         <ul class="flex flex-row justify-end  space-x-4 ">
           <img src="banklogo.jpg" class="my-2 ml-2 w-8 h-8 rounded-full" alt="bank logo here">
           <li class=" my-2 mx-3 grow ">Local Bank</li>
-          <li class=" my-2 cursor-pointer"><a href="index.php">Home</a></li>
+          <li class=" my-2 cursor-pointer"><a href="index.html">Home</a></li>
           <li class=" my-2 cursor-pointer"><a href="customer.php">View Customer</a></li>
           <li class=" my-2 cursor-pointer"><a href="transfer.php">Transfer Money</a></li>
           <li class=" my-2 cursor-pointer"><a href="history.php">History</a></li>
